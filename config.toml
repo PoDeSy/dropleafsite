@@ -1,4 +1,4 @@
-baseURL = "http://dropleafgames.com/"
+baseURL = "https://dropleafgames.com/"
 languageCode = "en-us"
 title = "Drop Leaf Games"
 theme = "hugo-theme-console"
