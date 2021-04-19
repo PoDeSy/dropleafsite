@@ -14,7 +14,7 @@ theme = "hugo-theme-dream"
 
 [params]
   background = "#f7f7f7"
-  # backgroundImage = "/me/background.jpg"
+  backgroundImage = "/img/background.jpg"
   linkColor = "seagreen"
 
   # dark mode
