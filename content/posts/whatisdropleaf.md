@@ -1,7 +1,6 @@
 ---
 title: "What is Drop Leaf Games"
 date: 2021-04-03T07:33:45-07:00
-draft: true
 ---
 # What Is Drop Leaf Games
 Drop Leaf Games is a collection of my tabletop game designs, the inspiration and methods I use to create them. Like a drop leaf table that folds out into a larger playing surface, Dropleaf games aspire to have a larger play space than their visible components indicate.
