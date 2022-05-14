@@ -1,7 +1,13 @@
----
-title: "Test Post"
-date: 2022-05-14T07:33:45-07:00
+--- 
+title{{ replace .TranslationBaseName "-" " " | title }} 
+date: {{ .Date }} 
+lastmod: {{ .Date }} 
+author: Author Name # 
+avatar: /img/author.jpg # authorlink: https://author.site 
+cover: /img/default1.jpg 
+categories: - category1 
+tags: - tag1 - tag2 
 ---
 
-# It's been a long time
-Here we are 1 year later.
+# Test with YAML
+Some body text here
