@@ -2,7 +2,7 @@ baseurl = "https://dropleafgames.com/"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "Drop Leaf Games"
-theme = "dream"
+theme = "hugo-theme-dream"
 
 # copyright = "2021"
 
