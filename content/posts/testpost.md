@@ -2,8 +2,12 @@
 title: Bring Back the Dead
 date: 2023-02-07T06:22:19-07:00
 cover: /img/default1.jpg 
-tags: AI, Experiments, Generating_Ideas
-category: AI as Game Design Assistant
+tags: 
+  - AI 
+  - Experiments
+  - Generating Ideas
+category: 
+  - AI as Game Design Assistant
 ---
 
 # Inspiration
