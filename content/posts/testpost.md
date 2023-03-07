@@ -6,9 +6,9 @@ tags:
   - AI 
   - Experiments
   - Generating Ideas
-category: 
+categories: 
   - AI as Game Design Assistant
 ---
 
 # Inspiration
-I decided to reserect this blog to document some AI chat-bot experiments I've been conducting. According to "experts" AI will not replace creative jobs in the near future, but will supplement their work as **creative assistants**. I've started to collect questions and prompts for the chat-bot that produce interesting and hopefully useful output. Could this output be useful in designing a full fledged board games? Watch for more posts in this category.
+I decided to resurrect this blog to document some AI chat-bot experiments I've been conducting. According to "experts" AI will not replace creative jobs in the near future, but will supplement their work as **creative assistants**. I've started to collect questions and prompts for the chat-bot that produce interesting and hopefully useful output. Could this output be useful in designing a full fledged board games? Watch for more posts in this category.
