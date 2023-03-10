@@ -6,7 +6,15 @@ theme = "hugo-theme-dream"
 
 # copyright = "2021"
 
-# googleAnalytics = ""
+# googleAnalytics = "<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VMZ9SRBL9X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VMZ9SRBL9X');
+</script>"
 
 # disqusShortname = ""
 
