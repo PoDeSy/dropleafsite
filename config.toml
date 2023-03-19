@@ -6,7 +6,7 @@ theme = "hugo-theme-dream"
 
 # copyright = "2021"
 
-# googleAnalytics = "G-VMZ9SRBL9X"
+googleAnalytics = "G-VMZ9SRBL9X"
 
 # disqusShortname = "drop-leaf-games"
 
